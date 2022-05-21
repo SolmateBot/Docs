@@ -52,6 +52,10 @@ You can add a role users will get when they verify their wallet. If they have a 
 * start by typing /panel addaction
 * select a role to give
 
+{% hint style="info" %}
+**Hint:** You can also add roles for users without a Solana wallet, make the option "walletrequired" false
+{% endhint %}
+
 ![](<../.gitbook/assets/image (1).png>)
 
 * Click enter and you're done.
