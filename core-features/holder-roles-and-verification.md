@@ -17,7 +17,7 @@ description: >-
 
 ![](<../.gitbook/assets/image (7).png>)
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
 * Your panel is created! you can add roles with /panel addaction.
 
@@ -34,7 +34,7 @@ We are supporting staked nfts and roles for traits, rarity and amount of nfts so
 * start by typing /panel addaction.
 * Select a role to give.
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 * click the option "collection"
 * Enter the name of the collection or the collection's symbol

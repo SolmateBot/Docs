@@ -13,6 +13,7 @@
 * [Holder roles & Verification](core-features/holder-roles-and-verification.md)
 * [Counters (floor price & more)](core-features/counters-floor-price-and-more.md)
 * [Wallet tracker](core-features/wallet-tracker.md)
+* [Listing and Sales updates](core-features/listing-and-sales-updates.md)
 
 ## For Members
 
