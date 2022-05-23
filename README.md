@@ -15,14 +15,13 @@ description: >-
 * Find nft's, collections, validators, wallets and collection floors
 * Current solana price in all currencies
 * Get updates at certain customizable price changes!
+* (de)list, sale and transfer updates
 * Update bot nickname, role color (green/red/customizable) to the current price.
 * Customizable server stats for solana.
-* Follow nft's and get updates
 * Get a collections floor price in a voice channel (in USD or SOL)
 
 #### Future features: 
 
-* (de)list, sale and transfer updates
 * Rarity
 * Total listed volume and DAO volume in channel
 
