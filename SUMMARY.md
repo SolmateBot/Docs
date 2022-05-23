@@ -18,3 +18,4 @@
 ## For Members
 
 * [How to verify your wallet](for-members/how-to-verify-your-wallet.md)
+* [Privacy and Safety measures](for-members/privacy-and-safety-measures.md)
