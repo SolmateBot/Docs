@@ -6,9 +6,13 @@ description: We offer Solmate Premium so we can keep improving our features
 
 ## What does Solmate Premium do
 
-* Get 10k premium commands a day instead of 20
+* Get 10k premium commands a day instead of 10
+* follow 15 addresses instead of 2
+* create 20 counters instead of 2
+* create 20 verification roles instead of 2
 * Support the devs with creating more features
 * your amazing ideas have priority
+* help paying with hosting and other costs
 
 ## How can I buy Solmate Premium
 
@@ -24,7 +28,7 @@ We have 2 types of Solmate Premium: Monthly and Lifetime
 
 | Type     | Price (USD) |
 | -------- | ----------- |
-| Monthly  | $5/month    |
+| Monthly  | $10/month   |
 | Lifetime | $63         |
 
 If you are a Solmate Premium Monthly user you can switch over to Lifetime for $5 less: $58
