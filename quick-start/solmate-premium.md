@@ -28,7 +28,7 @@ We have 2 types of Solmate Premium: Monthly and Lifetime
 
 | Type     | Price (USD) |
 | -------- | ----------- |
-| Monthly  | $10/month   |
+| Monthly  | $9.99/month |
 | Lifetime | $63         |
 
 If you are a Solmate Premium Monthly user you can switch over to Lifetime for $5 less: $58
