@@ -8,6 +8,13 @@
 * [Some more information](quick-start/some-more-information.md)
 * [Solmate Premium](quick-start/solmate-premium.md)
 
+## Commands
+
+* [Command-List](commands/command-list.md)
+* [/bot](commands/bot.md)
+* [/help](commands/help.md)
+* [/settings](commands/settings.md)
+
 ## Core Features
 
 * [Holder roles & Verification](core-features/holder-roles-and-verification.md)

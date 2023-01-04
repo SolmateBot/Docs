@@ -10,24 +10,17 @@ description: >-
 
 #### Core features include: 
 
-* Free Holder roles: Verify yourself in a server by connecting your wallet, and gain roles.
-* Advanced wallet tracker
-* Find nft's, collections, validators, wallets and collection floors
-* Current solana price in all currencies
-* Get updates at certain customizable price changes!
-* (de)list, sale and transfer updates
-* Update bot nickname, role color (green/red/customizable) to the current price.
-* Customizable server stats for solana.
-* Get a collections floor price in a voice channel (in USD or SOL)
-
-#### Future features: 
-
-* Rarity
-* Total listed volume and DAO volume in channel
+* Holder Roles: Verify yourself and your members by connecting your wallet and get roles.
+* Track wallets and get updates at funds movement and nft sales
+* Find information about nfts (such as rarity), collections, wallets and validators
+* Get the current price of solana and SPL tokens
+* Customizable server stats: Get updates and a live ticker with the sol price, floor, volume, and much more.
+* Change the bot's nickname to the sol price, tps and add red/green ticker roles
+* Burner wallet generator, generate a burner wallet with automatic sol deposit
 
 ## Want to jump right in?
 
-Set up Solmate for your server and set up it's features. Invite the bot and start making your server better!
+Set up Solmate for your server and set up its features. Invite the bot and start making your server better!
 
 {% content-ref url="quick-start/setting-up-the-bot.md" %}
 [setting-up-the-bot.md](quick-start/setting-up-the-bot.md)

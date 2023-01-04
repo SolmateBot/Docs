@@ -6,14 +6,14 @@
 
 ## Invite Solmate
 
-You can invite Solmate by [clicking here.](https://discord.com/oauth2/authorize?client\_id=934734698129797120\&permissions=872795137\&scope=bot%20applications.commands)&#x20;
+You can invite Solmate by[ clicking here. ](https://discord.com/oauth2/authorize?client\_id=840608489461514340\&scope=bot%20applications.commands)
 
 1. Click the link above
-2. Make sure you're logged in with Discord. You should see the below![](../.gitbook/assets/image.png)
+2. Make sure you're logged in with Discord. You should see the below![](<../.gitbook/assets/image (7).png>)
 3. Select the server you want to invite the bot to and click "Continue"
 4. Scroll down and click "Authorize"
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 {% hint style="info" %}
 **Permissions:** We require some permissions to make the bot work, they're all not needed. Permissions like Manage Roles are needed to assign holder roles and ticker roles.
