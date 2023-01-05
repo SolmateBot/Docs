@@ -1,12 +1,16 @@
-# Listing and Sales updates
+# Getupdates
 
-Get updates when a nft get's sold, listed or delisted
+Get updates when a nft get's sold, listed or delisted.
 
 ## Setting it up
 
 * type /getupdates add
 
-![](<../.gitbook/assets/image (13).png>)
+{% hint style="info" %}
+For the collection field: You can enter the collection link to Magic Eden, the collection's name or the symbol.
+{% endhint %}
+
+![](<../.gitbook/assets/image (13) (2).png>)
 
 * Add the collection name or symbol in the "collection" option and select the channel in the "channel option"
 * select the type of updates you want, listings and/or sales

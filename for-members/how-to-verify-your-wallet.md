@@ -6,8 +6,8 @@ description: How to verify your wallet with Solmate?
 
 Solmate offers holder roles and wallet verification, you can see how to set it up here:
 
-{% content-ref url="../core-features/holder-roles-and-verification.md" %}
-[holder-roles-and-verification.md](../core-features/holder-roles-and-verification.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Add a wallet to your profile
@@ -17,11 +17,12 @@ You can add a wallet to your profile with /profile addwallet.
 * type /profile addwallet
 * add the wallet public key in the "wallet" option. The following will pop up:
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (14) (1).png>)
 
 * Click the button in the message, you'll be brought to this site:
+*
 
-![](<../.gitbook/assets/image (16) (1).png>)
+    <figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 If the domain does not include spruijtstudios.com or solmatebot.com it's fake and you should immediately contact Solmate staff.
 
@@ -31,7 +32,7 @@ If the domain does not include spruijtstudios.com or solmatebot.com it's fake an
 
 * Click the "Verify" button on the site, you'll be prompted to log in with your wallet and sign a message. This message will NOT TRIGGER any blockchain transaction or cost a fee.
 
-![](<../.gitbook/assets/image (8) (1).png>)
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 * approve the message and you're verified, make sure the button on the site says verified.
 

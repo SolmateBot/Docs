@@ -6,7 +6,6 @@ description: We offer Solmate Premium so we can keep improving our features
 
 ## What does Solmate Premium do
 
-* Get 10k premium commands a day instead of 10
 * follow 15 addresses instead of 2
 * create 20 counters instead of 2
 * create 20 verification roles instead of 2

@@ -11,16 +11,30 @@
 ## Commands
 
 * [Command-List](commands/command-list.md)
-* [/bot](commands/bot.md)
-* [/help](commands/help.md)
-* [/settings](commands/settings.md)
-
-## Core Features
-
-* [Holder roles & Verification](core-features/holder-roles-and-verification.md)
-* [Counters (floor price & more)](core-features/counters-floor-price-and-more.md)
-* [Wallet tracker](core-features/wallet-tracker.md)
-* [Listing and Sales updates](core-features/listing-and-sales-updates.md)
+* [Bot](commands/bot.md)
+* [Help](commands/help.md)
+* [Settings](commands/settings.md)
+* [address](commands/address.md)
+* [Calculator](commands/calculator.md)
+* [Collection](commands/collection.md)
+* [Counter](commands/counter.md)
+* [Dashboard](commands/dashboard.md)
+* [Embed](commands/embed.md)
+* [Export](commands/export.md)
+* [Floor](commands/floor.md)
+* [Getholders](commands/getholders.md)
+* [Getupdates](commands/getupdates.md)
+* [Nft](commands/nft.md)
+* [Notification](commands/notification.md)
+* [Panel](commands/panel.md)
+* [Price](commands/price.md)
+* [Profile](commands/profile.md)
+* [Rarity](commands/rarity.md)
+* [Simplefloor](commands/simplefloor.md)
+* [Tps](commands/tps.md)
+* [Transactions](commands/transactions.md)
+* [Validators](commands/validators.md)
+* [Wallet](commands/wallet.md)
 
 ## For Members
 

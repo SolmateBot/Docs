@@ -6,10 +6,10 @@
 
 ## Invite Solmate
 
-You can invite Solmate by[ clicking here. ](https://discord.com/oauth2/authorize?client\_id=840608489461514340\&scope=bot%20applications.commands)
+You can invite Solmate by clicking [here](https://discord.com/oauth2/authorize?client\_id=840608489461514340\&scope=bot%20applications.commands).&#x20;
 
 1. Click the link above
-2. Make sure you're logged in with Discord. You should see the below![](<../.gitbook/assets/image (7).png>)
+2. Make sure you're logged in with Discord. You should see the below![](<../.gitbook/assets/image (7) (1).png>)
 3. Select the server you want to invite the bot to and click "Continue"
 4. Scroll down and click "Authorize"
 
@@ -23,14 +23,26 @@ You can invite Solmate by[ clicking here. ](https://discord.com/oauth2/authorize
 
 Click the links below to set up features.
 
-{% content-ref url="../core-features/holder-roles-and-verification.md" %}
-[holder-roles-and-verification.md](../core-features/holder-roles-and-verification.md)
+### Holder roles
+
+{% content-ref url="../commands/panel.md" %}
+[panel.md](../commands/panel.md)
 {% endcontent-ref %}
 
-{% content-ref url="../core-features/counters-floor-price-and-more.md" %}
-[counters-floor-price-and-more.md](../core-features/counters-floor-price-and-more.md)
+### Price in voice channel
+
+{% content-ref url="../commands/counter.md" %}
+[counter.md](../commands/counter.md)
 {% endcontent-ref %}
 
-{% content-ref url="../core-features/wallet-tracker.md" %}
-[wallet-tracker.md](../core-features/wallet-tracker.md)
+### Wallet tracker
+
+{% content-ref url="../commands/address.md" %}
+[address.md](../commands/address.md)
+{% endcontent-ref %}
+
+### Listing and sales updates
+
+{% content-ref url="../commands/getupdates.md" %}
+[getupdates.md](../commands/getupdates.md)
 {% endcontent-ref %}

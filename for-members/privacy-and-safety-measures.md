@@ -22,8 +22,8 @@ We try to get your server as safe as possible, here's how we do it:
 
 #### Bot access
 
-only an alt of the main dev has access to the bot's application and core, this means that if someone gets hacked, they still have nothing they can do.
+only the developer (PieterSpruijt#5136) has access to the bot
 
 #### Database
 
-Our database is secure and only accessible by the bot itself. We store the data needed to work properly, no stuff we don't need. If you delete your data, it's gone.
+Our database is secure and only accessible by the bot itself and the developer. We store the data needed to work properly, no stuff we don't need. If you delete your data, it's gone.

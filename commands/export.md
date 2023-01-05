@@ -1,0 +1,9 @@
+---
+description: Export holders that are verified in Discord
+---
+
+# Export
+
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption><p>No premium error</p></figcaption></figure>
