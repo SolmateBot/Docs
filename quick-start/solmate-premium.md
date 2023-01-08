@@ -1,21 +1,20 @@
 ---
-description: We offer Solmate Premium so we can keep improving our features
+description: We offer Solmate Premium for users so we can keep improving our features
 ---
 
 # Solmate Premium
 
 ## What does Solmate Premium do
 
-* follow 15 addresses instead of 2
-* create 20 counters instead of 2
-* create 20 verification roles instead of 2
+* Get new features early
+* Do 10k premium command daily instead of 50&#x20;
 * Support the devs with creating more features
-* your amazing ideas have priority
-* help paying with hosting and other costs
+* your unique ideas have a priority
+* help to pay for hosting and other costs
 
 ## How can I buy Solmate Premium
 
-You can buy Solmate Premium by [creating a ticket](https://canary.discord.com/channels/880548710793228319/941599229422485566) in the [Solmate Support Server](https://discord.gg/FWfFgjTepT)!
+You can buy Solmate Premium by [creating a ticket](https://discord.com/channels/880548710793228319/941599229422485566) in the [Solmate Support Server](https://discord.gg/FWfFgjTepT)!
 
 * Solana
 * USDC/USDT
@@ -23,11 +22,6 @@ You can buy Solmate Premium by [creating a ticket](https://canary.discord.com/ch
 
 ## How much does Solmate Premium costs?
 
-We have 2 types of Solmate Premium: Monthly and Lifetime
-
-| Type     | Price (USD) |
-| -------- | ----------- |
-| Monthly  | $9.99/month |
-| Lifetime | $63         |
-
-If you are a Solmate Premium Monthly user you can switch over to Lifetime for $5 less: $58
+| Type    | Price (USD) |
+| ------- | ----------- |
+| Monthly | $1.99/month |
