@@ -37,7 +37,7 @@ You can add text in front of the data, for example the channel is called "◎8.7
 
 ## Delete a counter
 
-You can delete a counter with /counter delete and click the corresponding type and click enter. Make sure to also delete the (voice) channel
+You can delete a counter with /counter delete and click the corresponding index (see /counter list) and click enter. Make sure to also delete the (voice) channel (This should be done automatically)
 
 ## List counters
 
