@@ -34,6 +34,7 @@
 * [Tps](commands/tps.md)
 * [Transactions](commands/transactions.md)
 * [Validators](commands/validators.md)
+* [Webhooks](commands/webhooks.md)
 * [Wallet](commands/wallet.md)
 
 ## For Members
