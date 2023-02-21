@@ -12,7 +12,7 @@ What Are Discord Bots? Discord bots are **tools that can help you automate tasks
 
 We use slash commands, that means that you have to enter slash (/) to see a list with commands to execute, see the example below.
 
-![](<../.gitbook/assets/image (2) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 You can run a command by clicking on it or typing it's name.
 

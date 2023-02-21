@@ -16,9 +16,9 @@ Get an address. The reply will show sol balance, token balances and owner.
 
 Track an address, you have the option to choose if you only want sol transfers, spl transfers (also NFT sales) or both.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>The options you have to enter</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (2).png" alt=""><figcaption><p>The options you have to enter</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>Example of a command</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>Example of a command</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption><p>Successful reply, it will send the same message in the channel</p></figcaption></figure>
 
@@ -26,7 +26,7 @@ Track an address, you have the option to choose if you only want sol transfers, 
 
 Stop tracking a particular wallet.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## List all tracked addresses
 

@@ -10,7 +10,7 @@ Get updates when a nft get's sold, listed or delisted.
 For the collection field: You can enter the collection link to Magic Eden, the collection's name or the symbol.
 {% endhint %}
 
-![](<../.gitbook/assets/image (13) (2).png>)
+![](<../.gitbook/assets/image (13) (2) (1).png>)
 
 * Add the collection name or symbol in the "collection" option and select the channel in the "channel option"
 * select the type of updates you want, listings and/or sales

@@ -43,4 +43,4 @@ You can delete a counter with /counter delete and click the corresponding index 
 
 you can list counters with the /counter list command. The result will look similar to this:
 
-![](<../.gitbook/assets/image (11) (1).png>)
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>

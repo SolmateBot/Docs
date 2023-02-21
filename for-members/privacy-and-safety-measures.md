@@ -26,4 +26,4 @@ only the developer (PieterSpruijt#5136) has access to the bot
 
 #### Database
 
-Our database is secure and only accessible by the bot itself and the developer. We store the data needed to work properly, no stuff we don't need. If you delete your data, it's gone.
+Our database is secure and only accessible by the bot itself and the developer. We store the data needed to work properly, no stuff we don't need. If you delete your data, it's gone. We create database backups now and then.

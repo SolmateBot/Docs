@@ -8,6 +8,6 @@ description: Get the usage, description, and examples of a command.
 
 The command field is optional.&#x20;
 
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption><p>Without selecting a command</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Without selecting a command</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>With selecting a command</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>With selecting a command</p></figcaption></figure>

@@ -8,23 +8,13 @@ description: Get information about Solmate.
 
 Invite Solmate to your server
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ## Info
 
 Get info about Solmate
 
-<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
-
-## Premium
-
-Get info about premium. Find more info about premium by clicking below!
-
-{% content-ref url="../quick-start/solmate-premium.md" %}
-[solmate-premium.md](../quick-start/solmate-premium.md)
-{% endcontent-ref %}
-
-<figure><img src="../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ## Ping
 

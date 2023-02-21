@@ -10,7 +10,7 @@ Add a webhook, for example AI calls, twitter AI calls, or a launchmynft tracker
 
 Do /webhooks add and select the type and channel
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 You should see this message in the channel do you the command AND the channel you want to track
 
@@ -24,4 +24,4 @@ remove a tracker by doing /webhook remove and select the type
 
 /webhook list
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
