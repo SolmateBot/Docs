@@ -18,11 +18,9 @@
 * [Calculator](commands/calculator.md)
 * [Collection](commands/collection.md)
 * [Counter](commands/counter.md)
-* [Dashboard](commands/dashboard.md)
-* [Embed](commands/embed.md)
+* [Solanainfo](commands/solanainfo.md)
 * [Export](commands/export.md)
 * [Floor](commands/floor.md)
-* [Getholders](commands/getholders.md)
 * [Getupdates](commands/getupdates.md)
 * [Nft](commands/nft.md)
 * [Notification](commands/notification.md)
@@ -34,8 +32,7 @@
 * [Tps](commands/tps.md)
 * [Transactions](commands/transactions.md)
 * [Validators](commands/validators.md)
-* [Webhooks](commands/webhooks.md)
-* [Wallet](commands/wallet.md)
+* [Verifysignature](commands/verifysignature.md)
 
 ## For Members
 

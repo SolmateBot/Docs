@@ -16,7 +16,8 @@ description: >-
 * Get the current price of solana and SPL tokens
 * Customizable server stats: Get updates and a live ticker with the sol price, floor, volume, and much more.
 * Change the bot's nickname to the sol price, tps and add red/green ticker roles
-* Burner wallet generator, generate a burner wallet with automatic sol deposit
+
+
 
 ## Want to jump right in?
 

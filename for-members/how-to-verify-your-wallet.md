@@ -46,10 +46,11 @@ if the emoji in front of your wallet is green you're verified, if red it's unver
 
 You can verify wallets you have added before but are not verified yet.
 
-* type /profile verifywallet and enter your wallets public key in the "wallet" option
-* click enter
-* follow the same steps as verification above
+* Go to [https://solmatebot.com/dashboard/](https://solmatebot.com/dashboard/) and log in
+* find the address you want to verify and click the verify button
 
 ## Remove and view wallets
 
-You can remove and view wallets with /profile removewallet and /profile view
+You can see your wallets with /profile
+
+A "Add Wallet" and "Remove wallet" button should appear under the message

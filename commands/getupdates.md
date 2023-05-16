@@ -20,7 +20,11 @@ For the collection field: You can enter the collection link to Magic Eden, the c
 
 * you can get a list of updates you set with /getupdates list
 
-![](<../.gitbook/assets/image (12).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (12).png" alt="">
+
+</div>
 
 ## Delete notifications
 
