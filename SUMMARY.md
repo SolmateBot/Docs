@@ -14,7 +14,7 @@
 * [Bot](commands/bot.md)
 * [Help](commands/help.md)
 * [Settings](commands/settings.md)
-* [address](commands/address.md)
+* [Address](commands/address.md)
 * [Calculator](commands/calculator.md)
 * [Collection](commands/collection.md)
 * [Counter](commands/counter.md)
