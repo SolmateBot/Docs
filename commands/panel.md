@@ -55,7 +55,7 @@ You can add a role users will get when they verify their wallet. If they have a 
 **Hint:** You can also add roles for users without a Solana wallet, make the option "walletrequired" false
 {% endhint %}
 
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 * Click enter and you're done.
 

@@ -11,4 +11,4 @@ Run the command /verifysignature, a popup will appear
 Submit, a valid signature should return this message\
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

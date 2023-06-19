@@ -10,7 +10,7 @@ You can invite Solmate by clicking [here](https://discord.com/oauth2/authorize?c
 
 1. Click the link above
 2. Make sure you're logged in with Discord. You should see the below
-3. ![](../.gitbook/assets/image.png)
+3. ![](<../.gitbook/assets/image (1).png>)
 4. Select the server you want to invite the bot to and click "Authorize"
 
 

@@ -29,6 +29,7 @@
 * [Profile](commands/profile.md)
 * [Rarity](commands/rarity.md)
 * [Simplefloor](commands/simplefloor.md)
+* [Snapshot](commands/snapshot.md)
 * [Tps](commands/tps.md)
 * [Transactions](commands/transactions.md)
 * [Validators](commands/validators.md)
