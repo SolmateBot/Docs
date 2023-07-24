@@ -2,7 +2,7 @@
 description: Get and track solana wallets.
 ---
 
-# address
+# Address
 
 ## Get an address
 
@@ -24,7 +24,7 @@ Track an address, you have the option to choose if you only want sol transfers, 
 
 Stop tracking a particular wallet.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (3).png" alt=""><figcaption></figcaption></figure>
 
 ## List all tracked addresses
 

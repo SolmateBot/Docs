@@ -66,7 +66,7 @@ Add nametags so wallets don't show up as addresses but as a name
 
 <figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (13) (3).png" alt=""><figcaption><p>Example of a wallet tracker message with a nametag</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (3) (1).png" alt=""><figcaption><p>Example of a wallet tracker message with a nametag</p></figcaption></figure>
 
 ## Remove a nametag
 

@@ -14,7 +14,7 @@ Invite Solmate to your server
 
 Get info about Solmate
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
 
 ## Ping
 
