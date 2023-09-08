@@ -6,7 +6,7 @@ description: We offer Solmate Premium for users so we can keep improving our fea
 
 To get Solmate premium go to [https://solmatebot.com/manage](https://solmatebot.com/manage) (log in first) and click on the server you want premium for. Click on the premium banner and follow the steps.&#x20;
 
-<table><thead><tr><th>Plan</th><th>Lifetime</th><th data-type="number">Wallet trackers/verification roles/sales trackers/counters</th><th>Snapshots/export holders</th></tr></thead><tbody><tr><td>Monthly</td><td>$9.99/month</td><td>20</td><td>✅</td></tr><tr><td>Lifetime</td><td>$60.99</td><td>20</td><td>✅</td></tr><tr><td>Free</td><td>$0</td><td>2</td><td>❌</td></tr></tbody></table>
+<table><thead><tr><th>Plan</th><th>Lifetime</th><th data-type="number">Wallet trackers/verification roles/sales trackers/counters</th><th>Snapshots/export holders</th></tr></thead><tbody><tr><td>Monthly</td><td>$9.99/month</td><td>20</td><td>✅</td></tr><tr><td>Lifetime</td><td>$69.99</td><td>20</td><td>✅</td></tr><tr><td>Free</td><td>$0</td><td>2</td><td>❌</td></tr></tbody></table>
 
 Introducing Solmate Premium, the ultimate subscription plan for the Solmate Discord bot designed for Solana blockchain enthusiasts. With Solmate Premium, you unlock exclusive features and enhancements to elevate your Discord server's Solana experience.
 
