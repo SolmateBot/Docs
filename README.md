@@ -8,14 +8,15 @@ description: >-
 
 ## What features does Solmate have?
 
-#### Core features include: 
+#### Core features include:
 
-* Holder Roles: Verify yourself and your members by connecting your wallet and get roles.
-* Track wallets and get updates at funds movement and nft sales
+* **Wallet tracker**: Track your wallets and get instant updates on nft sales, swaps and more.
+* **Holder verification**: Verify your members by connecting your wallet and get roles based on nft holdings and things like traits.
+* Customizable **server stats**: Get updates and a live ticker with the sol price, floor, volume, and much more.
 * Find information about nfts (such as rarity), collections, wallets and validators
-* Get the current price of solana and SPL tokens
-* Customizable server stats: Get updates and a live ticker with the sol price, floor, volume, and much more.
-* Change the bot's nickname to the sol price, tps and add red/green ticker roles
+* Create **snapshots** of collections and pick a random holder.
+* Change the bot's nickname to the sol price, tps and add red/green ticker roles.
+* Create **static messages** with the information you want to display, like wallet balance.
 
 
 
@@ -25,6 +26,14 @@ Set up Solmate for your server and set up its features. Invite the bot and start
 
 {% content-ref url="quick-start/setting-up-the-bot.md" %}
 [setting-up-the-bot.md](quick-start/setting-up-the-bot.md)
+{% endcontent-ref %}
+
+{% content-ref url="commands/counter.md" %}
+[counter.md](commands/counter.md)
+{% endcontent-ref %}
+
+{% content-ref url="commands/snapshot.md" %}
+[snapshot.md](commands/snapshot.md)
 {% endcontent-ref %}
 
 ## Image Gallery

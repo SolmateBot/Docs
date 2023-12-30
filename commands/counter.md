@@ -1,8 +1,8 @@
 ---
-description: Counters are (voice) channels with stats like floor price in SOL
+description: Counters are (voice) channels with stats like floor price in SOL.
 ---
 
-# Counter
+# Server stats (counter)
 
 ## Creating counters
 

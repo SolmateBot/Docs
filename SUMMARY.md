@@ -10,14 +10,12 @@
 
 ## Commands
 
-* [Command-List](commands/command-list.md)
-* [Bot](commands/bot.md)
 * [Help](commands/help.md)
 * [Settings](commands/settings.md)
-* [Address](commands/address.md)
+* [Wallet tracker (address)](commands/address.md)
 * [Calculator](commands/calculator.md)
 * [Collection](commands/collection.md)
-* [Counter](commands/counter.md)
+* [Server stats (counter)](commands/counter.md)
 * [Export](commands/export.md)
 * [Floor](commands/floor.md)
 * [Getupdates](commands/getupdates.md)

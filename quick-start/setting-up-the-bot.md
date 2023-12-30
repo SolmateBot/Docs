@@ -1,12 +1,12 @@
 # Setting up the bot
 
 {% hint style="info" %}
-**Good to know:** Solmate is free, and will be so forever. We offer premium plans to support the developer(s) and fund hosting. We mostly rely on donations.
+**Good to know:** Solmate is free, and will be so forever. We offer premium plans to support the developer and pay hosting.
 {% endhint %}
 
 ## Invite Solmate
 
-You can invite Solmate by clicking [here](https://discord.com/oauth2/authorize?client\_id=840608489461514340\&scope=bot%20applications.commands).&#x20;
+You can invite Solmate by clicking [here](https://solmatebot.com/invite).&#x20;
 
 1. Click the link above
 2. Make sure you're logged in with Discord. You should see the below
@@ -18,7 +18,7 @@ You can invite Solmate by clicking [here](https://discord.com/oauth2/authorize?c
 
 
 {% hint style="info" %}
-**Permissions:** We require some permissions to make the bot work, they're all not needed. Permissions, like Manage Roles, are needed to assign holder roles and ticker roles.
+**Permissions:** We require some permissions to make the bot work, they are not all required.But permissions, like Manage Roles, are needed to assign holder roles and ticker roles.
 {% endhint %}
 
 ## Setting up the features!

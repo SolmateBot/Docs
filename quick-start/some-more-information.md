@@ -20,6 +20,6 @@ You can run a command by clicking on it or typing it's name.
 
 You can add required and optional arguments to the command, in the example above the "address" argument is required.
 
-![](<../.gitbook/assets/image (5) (1) (1).png>)
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 As you can see the bot got the account with the given argument.
