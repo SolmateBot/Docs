@@ -2,7 +2,13 @@
 description: Get and track solana wallets.
 ---
 
-# Address
+# Wallet tracker (address)
+
+##
+
+{% hint style="info" %}
+You can give your wallets a name by adding a nametag. This will display the nametag instead of the address and makes it easier to see which wallets were active. Learn more [here](https://docs.solmatebot.com/commands/settings#add-a-nametag)
+{% endhint %}
 
 ## Get an address
 
