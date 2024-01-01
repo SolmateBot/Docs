@@ -14,11 +14,8 @@ Solmate offers holder roles and wallet verification, you can see how to set it u
 
 You can add a wallet to your profile with /profile addwallet.
 
-* type /profile addwallet
-* add the wallet public key in the "wallet" option. The following will pop up:
-
-![](<../.gitbook/assets/image (14) (1).png>)
-
+* type /profile
+* add Click "Add Wallet"
 * Click the button in the message, you'll be brought to this site:
 *
 
@@ -46,7 +43,7 @@ if the emoji in front of your wallet is green you're verified, if red it's unver
 
 You can verify wallets you have added before but are not verified yet.
 
-* Go to [https://solmatebot.com/dashboard/](https://solmatebot.com/dashboard/) and log in
+* Go to [https://solmatebot.com/account](https://solmatebot.com/account) and log in
 * find the address you want to verify and click the verify button
 
 ## Remove and view wallets
