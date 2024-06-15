@@ -4,8 +4,6 @@ description: What measures we take to get you and your server safe and secure
 
 # Privacy and Safety measures
 
-
-
 ## Privacy
 
 {% hint style="danger" %}
@@ -22,7 +20,7 @@ We try to get your server as safe as possible, here's how we do it:
 
 #### Bot access
 
-only the developer (PieterSpruijt#5136) has access to the bot
+only the developer @spruijt (628205772509151240) has access to the bot
 
 #### Database
 

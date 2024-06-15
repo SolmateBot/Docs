@@ -19,9 +19,11 @@ You can add a wallet to your profile with /profile addwallet.
 * Click the button in the message, you'll be brought to this site:
 *
 
-    <figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 If the domain does not include spruijtstudios.com or solmatebot.com it's fake and you should immediately contact Solmate staff.
+
+You will be able to connect your wallet or verify without connecting by sending sol to a wallet and entering the signature.
 
 {% hint style="info" %}
 **Supported Wallets:** We support verification with the following wallets: Phantom, Solflare and Slope, contact Solmate staff to verify if you don't have one of these.
@@ -35,7 +37,7 @@ If the domain does not include spruijtstudios.com or solmatebot.com it's fake an
 
 you can check if you are verified with /profile view
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1).png>)
 
 if the emoji in front of your wallet is green you're verified, if red it's unverified.
 

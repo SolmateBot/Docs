@@ -10,7 +10,7 @@ Creating a panel
 
 * type /panel create
 
-![](<../.gitbook/assets/image (10) (1).png>)
+![](<../.gitbook/assets/image (10) (1) (1).png>)
 
 * You can customize the message to your likings, this is optional.
 * Click enter and your panel is created.
@@ -55,7 +55,7 @@ You can add a role users will get when they verify their wallet. If they have a 
 **Hint:** You can also add roles for users without a Solana wallet, make the option "walletrequired" false
 {% endhint %}
 
-![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
 
 * Click enter and you're done.
 

@@ -52,13 +52,13 @@ Disable a channel, users will no longer be able to run commands here
 
 ## Enable channel&#x20;
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Reset
 
 reset all the guild data Solmate has, this cannot be undone
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Add a nametag
 
@@ -72,7 +72,7 @@ Add nametags so wallets don't show up as addresses but as a name
 
 You can remove a nametag
 
-<figure><img src="../.gitbook/assets/image (5) (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Example of a wallet tracker message with a nametag</p></figcaption></figure>
 
