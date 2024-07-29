@@ -37,8 +37,8 @@ Click the links below to set up features.
 
 ### Price in voice channel
 
-{% content-ref url="../commands/counter.md" %}
-[counter.md](../commands/counter.md)
+{% content-ref url="../commands/stats.md" %}
+[stats.md](../commands/stats.md)
 {% endcontent-ref %}
 
 ### Listing and sales updates

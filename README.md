@@ -14,7 +14,7 @@ description: >-
 * **Holder verification**: Verify your members by connecting your wallet and get roles based on NFT and token ownership and traits.
 * Customizable **server stats**: Get updates and a live ticker with the sol price, floor, volume, and much more.
 * Find information about NFTs (such as rarity), collections, wallets and validators
-* Create **snapshots** of collections and pick a random holder.
+* Create a **snapshot** of a collection or token and pick a random holder.
 * Change the bot's nickname to the sol price, TPS and add red/green ticker roles.
 * Create **static messages** with the information you want to display, like wallet balance.
 
@@ -28,8 +28,8 @@ Set up Solmate for your server and set up its features. Invite the bot and start
 [setting-up-the-bot.md](quick-start/setting-up-the-bot.md)
 {% endcontent-ref %}
 
-{% content-ref url="commands/counter.md" %}
-[counter.md](commands/counter.md)
+{% content-ref url="commands/stats.md" %}
+[stats.md](commands/stats.md)
 {% endcontent-ref %}
 
 {% content-ref url="commands/snapshot.md" %}

@@ -11,11 +11,12 @@
 ## Commands
 
 * [Help](commands/help.md)
+* [Tracker](commands/tracker.md)
 * [Settings](commands/settings.md)
-* [Wallet tracker (address)](commands/address.md)
+* [Address](commands/address.md)
 * [Calculator](commands/calculator.md)
 * [Collection](commands/collection.md)
-* [Server stats (counter)](commands/counter.md)
+* [Stats](commands/stats.md)
 * [Export](commands/export.md)
 * [Floor](commands/floor.md)
 * [Getupdates](commands/getupdates.md)
