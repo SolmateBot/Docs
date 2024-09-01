@@ -28,12 +28,20 @@ Set up Solmate for your server and set up its features. Invite the bot and start
 [setting-up-the-bot.md](quick-start/setting-up-the-bot.md)
 {% endcontent-ref %}
 
-{% content-ref url="commands/stats.md" %}
-[stats.md](commands/stats.md)
+{% content-ref url="commands/tracker.md" %}
+[tracker.md](commands/tracker.md)
+{% endcontent-ref %}
+
+{% content-ref url="commands/verification.md" %}
+[verification.md](commands/verification.md)
 {% endcontent-ref %}
 
 {% content-ref url="commands/snapshot.md" %}
 [snapshot.md](commands/snapshot.md)
+{% endcontent-ref %}
+
+{% content-ref url="commands/stats.md" %}
+[stats.md](commands/stats.md)
 {% endcontent-ref %}
 
 ## Image Gallery

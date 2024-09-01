@@ -12,7 +12,7 @@ You can invite Solmate by clicking [here](https://solmatebot.com/invite).&#x20;
 2. Make sure you're logged in with Discord. You should see the below
 3.
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 4. Select the server you want to invite the bot to and click "Authorize"
 
 {% hint style="info" %}
@@ -29,20 +29,20 @@ Click the links below to set up features.
 [address.md](../commands/address.md)
 {% endcontent-ref %}
 
-### Holder roles
+### Holder verification
 
-{% content-ref url="../commands/panel.md" %}
-[panel.md](../commands/panel.md)
+{% content-ref url="../commands/verification.md" %}
+[verification.md](../commands/verification.md)
 {% endcontent-ref %}
 
-### Price in voice channel
+### Stats
 
 {% content-ref url="../commands/stats.md" %}
 [stats.md](../commands/stats.md)
 {% endcontent-ref %}
 
-### Listing and sales updates
+### Collection tracker
 
-{% content-ref url="../commands/getupdates.md" %}
-[getupdates.md](../commands/getupdates.md)
+{% content-ref url="../commands/collectiontracker.md" %}
+[collectiontracker.md](../commands/collectiontracker.md)
 {% endcontent-ref %}

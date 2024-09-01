@@ -6,24 +6,22 @@ description: How to verify your wallet with Solmate?
 
 Solmate offers holder roles and wallet verification, you can see how to set it up here:
 
-{% content-ref url="../commands/panel.md" %}
-[panel.md](../commands/panel.md)
+{% content-ref url="../commands/verification.md" %}
+[verification.md](../commands/verification.md)
 {% endcontent-ref %}
 
 ## Add a wallet to your profile
 
-You can add a wallet to your profile with /profile addwallet.
+Log into the web dashboard: [https://solmatebot.com/account](https://solmatebot.com/account)
 
-* type /profile
-* add Click "Add Wallet"
-* Click the button in the message, you'll be brought to this site:
+* Log in and click the "Add new wallet", you'll be brought to this page:
 *
 
-    <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 If the domain does not include spruijtstudios.com or solmatebot.com it's fake and you should immediately contact Solmate staff.
 
-You will be able to connect your wallet or verify without connecting by sending sol to a wallet and entering the signature.
+You will be able to connect your wallet and sign a message **OR** verify without connecting by sending sol to a wallet and entering the signature.
 
 {% hint style="info" %}
 **Supported Wallets:** We support verification with the following wallets: Phantom, Solflare and Slope, contact Solmate staff to verify if you don't have one of these.
@@ -37,7 +35,7 @@ You will be able to connect your wallet or verify without connecting by sending 
 
 you can check if you are verified with /profile view
 
-![](<../.gitbook/assets/image (6) (1) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1) (1).png>)
 
 if the emoji in front of your wallet is green you're verified, if red it's unverified.
 
@@ -50,6 +48,4 @@ You can verify wallets you have added before but are not verified yet.
 
 ## Remove and view wallets
 
-You can see your wallets with /profile
-
-A "Add Wallet" and "Remove wallet" button should appear under the message
+You can manage your wallets on the website: [https://solmatebot.com/account](https://solmatebot.com/account)

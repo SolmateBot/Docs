@@ -4,7 +4,11 @@ description: Recent update
 
 # Changelog
 
-## V1.5.0
+## v1.5.1
+
+* Renamed various commands
+
+## v1.5.0
 
 * Pinksale support
 * Unlimited plan
