@@ -12,28 +12,35 @@ Track an address, you have the option to choose if you only want sol transfers, 
 
 Stop tracking a particular wallet.
 
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+Go the the dashboard > [https://solmatebot.com/manage](https://solmatebot.com/manage)
+
+<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+
+Select your server and go the Trackers page, click delete for the tracker to delete it
 
 ## List all tracked addresses
 
 get a list of all tracked wallets.
 
-<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+Go the the dashboard > [https://solmatebot.com/manage](https://solmatebot.com/manage)
+
+<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 ## Set minimum tx value
 
 Use this command to set a minimum transaction value to prevent spam transactions.
 
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+Go the the dashboard > [https://solmatebot.com/manage](https://solmatebot.com/manage)
 
-## Add nametag
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-## Remove nametag
+<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+Select your server and go the settings page and enter the new amount
 
-## List nametags
+## Manage nametags
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+Go the the dashboard > [https://solmatebot.com/manage](https://solmatebot.com/manage)
+
+<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+

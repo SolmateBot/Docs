@@ -33,13 +33,9 @@ You will be able to connect your wallet and sign a message **OR** verify without
 
 * approve the message and you're verified, make sure the button on the site says verified.
 
-you can check if you are verified with /profile view
 
-![](<../.gitbook/assets/image (6) (1) (1) (1).png>)
 
-if the emoji in front of your wallet is green you're verified, if red it's unverified.
-
-## Verify added wallet
+## Verify and manage added wallets
 
 You can verify wallets you have added before but are not verified yet.
 
