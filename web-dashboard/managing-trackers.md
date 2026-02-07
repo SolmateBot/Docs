@@ -29,8 +29,8 @@ address channel nametag
 For example:
 
 ```
-7xKXtg2CW87...9pR4 #tracker-channel Team Wallet
-9yMNzp3EQ12...4kL8 #tracker-channel Whale 1
+7xKXtg2CW87...9pR4 7415794142837616252 Team Wallet
+9yMNzp3EQ12...4kL8 7415794142837616252 Whale 1
 ```
 
 ### Paste from clipboard
