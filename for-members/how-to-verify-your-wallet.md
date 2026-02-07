@@ -29,7 +29,7 @@ You will be able to connect your wallet and sign a message **OR** verify without
 
 * Click the "Verify" button on the site, you'll be prompted to log in with your wallet and sign a message. This message will NOT TRIGGER any blockchain transaction or cost a fee.
 
-<figure><img src="../.gitbook/assets/image (13) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 * approve the message and you're verified, make sure the button on the site says verified.
 

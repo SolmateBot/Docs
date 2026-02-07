@@ -46,12 +46,12 @@ Set up Solmate for your server and set up its features. Invite the bot and start
 
 ## Image Gallery
 
-<figure><img src=".gitbook/assets/image (47).png" alt=""><figcaption><p>Wallet tracker</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (137).png" alt=""><figcaption><p>Wallet tracker</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (45).png" alt=""><figcaption><p>Holder verification</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (135).png" alt=""><figcaption><p>Holder verification</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (46).png" alt=""><figcaption><p>Collection info</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (136).png" alt=""><figcaption><p>Collection info</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (48).png" alt=""><figcaption><p>Stats</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (138).png" alt=""><figcaption><p>Stats</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>

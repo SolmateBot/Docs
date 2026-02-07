@@ -18,7 +18,7 @@ Creating a panel
 
     <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/image (13) (1).png>)
+![](<../.gitbook/assets/image (52).png>)
 
 * Your panel is created! you can add roles with /verification actions addcollection or /verification actions addtoken.
 
@@ -55,10 +55,10 @@ We are supporting staked nfts and roles for traits, rarity and amount of nfts so
 * click the option "collection"
 * Enter the name of the collection or the collection's symbol
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**Collection Symbol:** You can see the symbol in the link on magic eden for example: [https://magiceden.io/marketplace/iconic\_ape\_club](https://magiceden.io/marketplace/iconic\_ape\_club). the symbol is "iconic\_ape_\__club"
+**Collection Symbol:** You can see the symbol in the link on magic eden for example: [https://magiceden.io/marketplace/iconic\_ape\_club](https://magiceden.io/marketplace/iconic_ape_club). the symbol is "iconic\_ap&#x65;_\__&#x63;lub"
 {% endhint %}
 
 * Click enter and the action is created.
