@@ -3,34 +3,56 @@
 * [Welcome to Solmate!](README.md)
 * [Changelog](changelog.md)
 
-## Quick Start
+## Getting Started
 
-* [Setting up the bot](quick-start/setting-up-the-bot.md)
-* [Some more information](quick-start/some-more-information.md)
-* [Solmate Premium](quick-start/solmate-premium.md)
+* [Invite the Bot](getting-started/invite-the-bot.md)
+* [Using Slash Commands](getting-started/using-slash-commands.md)
+* [Premium Plans](getting-started/premium-plans.md)
 
-## Commands
+## Discord Bot Features
 
-* [Address](commands/address.md)
-* [Calculate](commands/calculate.md)
-* [Collection](commands/collection.md)
-* [Collectiontracker](commands/collectiontracker.md)
-* [Export](commands/export.md)
-* [Floor](commands/floor.md)
-* [Help](commands/help.md)
-* [Price](commands/price.md)
-* [Snapshot](commands/snapshot.md)
-* [Solanainfo](commands/solanainfo.md)
-* [Static](commands/static.md)
-* [Stats](commands/stats.md)
-* [Token](commands/token.md)
-* [Tokensnapshot](commands/tokensnapshot.md)
-* [Tracker](commands/tracker.md)
-* [Verification](commands/verification.md)
-* [Verifysignature](commands/verifysignature.md)
+* [Wallet Tracker](discord-bot/wallet-tracker.md)
+* [Holder Verification](discord-bot/holder-verification.md)
+* [Server Stats (Counters)](discord-bot/server-stats.md)
+* [Collection Tracker](discord-bot/collection-tracker.md)
+* [Static Messages](discord-bot/static-messages.md)
+* [Snapshots](discord-bot/snapshots.md)
+* [PNL Tracking & Leaderboard](discord-bot/pnl-tracking.md)
+* [Nametags & Labels](discord-bot/nametags-and-labels.md)
+* [Bot Settings](discord-bot/bot-settings.md)
+
+## Discord Commands
+
+* [/address](discord-commands/address.md)
+* [/token](discord-commands/token.md)
+* [/collection](discord-commands/collection.md)
+* [/price](discord-commands/price.md)
+* [/floor](discord-commands/floor.md)
+* [/calculate](discord-commands/calculate.md)
+* [/solanainfo](discord-commands/solanainfo.md)
+* [/flex](discord-commands/flex.md)
+* [/help](discord-commands/help.md)
+* [/export](discord-commands/export.md)
+* [/verifysignature](discord-commands/verifysignature.md)
+
+## Web Dashboard
+
+* [Dashboard Overview](web-dashboard/dashboard-overview.md)
+* [Account & Wallets](web-dashboard/account-and-wallets.md)
+* [Managing Trackers](web-dashboard/managing-trackers.md)
+* [Verification Setup](web-dashboard/verification-setup.md)
+* [Tracker Settings](web-dashboard/tracker-settings.md)
+* [Snapshots](web-dashboard/snapshots.md)
+
+## Telegram Bot
+
+* [Getting Started](telegram-bot/getting-started.md)
+* [Tracking Wallets](telegram-bot/tracking-wallets.md)
+* [Settings & Customization](telegram-bot/settings-and-customization.md)
+* [Telegram Premium](telegram-bot/telegram-premium.md)
 
 ## For Members
 
-* [How to verify your wallet](for-members/how-to-verify-your-wallet.md)
-* [Privacy and Safety measures](for-members/privacy-and-safety-measures.md)
+* [How to Verify Your Wallet](for-members/how-to-verify-your-wallet.md)
+* [Privacy and Safety](for-members/privacy-and-safety-measures.md)
 * [Privacy Policy](for-members/privacy-policy.md)

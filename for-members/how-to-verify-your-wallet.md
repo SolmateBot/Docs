@@ -1,47 +1,111 @@
 ---
-description: How to verify your wallet with Solmate?
+description: Step-by-step guide for community members to verify their wallet and get holder roles.
 ---
 
-# How to verify your wallet
+# How to Verify Your Wallet
 
-Solmate offers holder roles and wallet verification, you can see how to set it up here:
+If a Discord server uses Solmate for holder verification, you'll need to connect and verify your wallet to receive roles based on your NFT or token holdings.
 
-{% content-ref url="../commands/verification.md" %}
-[verification.md](../commands/verification.md)
-{% endcontent-ref %}
+## Step 1: Click the Verify button
 
-## Add a wallet to your profile
+Find the verification panel in the Discord server (usually in a dedicated channel) and click the **Verify** button.
 
-Log into the web dashboard: [https://solmatebot.com/account](https://solmatebot.com/account)
+<figure><img src="../.gitbook/assets/placeholder-member-verify-panel.png" alt=""><figcaption><p>Click the Verify button on the panel</p></figcaption></figure>
 
-* Log in and click the "Add new wallet", you'll be brought to this page:
-*
+You'll be redirected to the Solmate website to complete verification.
 
-    <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+## Step 2: Add your wallet
 
-If the domain does not include spruijtstudios.com or solmatebot.com it's fake and you should immediately contact Solmate staff.
+If this is your first time, you'll be on the wallet verification page. You have two ways to verify:
 
-You will be able to connect your wallet and sign a message **OR** verify without connecting by sending sol to a wallet and entering the signature.
+{% tabs %}
+{% tab title="Option 1: Sign a Message (Recommended)" %}
+
+1. Click **Connect Wallet**
+2. Select your wallet provider (Phantom, Solflare, MetaMask, Trust Wallet, Coinbase Wallet, and 300+ more)
+3. Approve the connection in your wallet
+4. Click **Verify** — you'll be asked to sign a message
+5. Approve the signature in your wallet
+
+<figure><img src="../.gitbook/assets/placeholder-member-sign-message.png" alt=""><figcaption><p>Signing a verification message — this costs nothing</p></figcaption></figure>
 
 {% hint style="info" %}
-**Supported Wallets:** We support verification with the following wallets: Phantom, Solflare and Slope, contact Solmate staff to verify if you don't have one of these.
+**This is free and safe.** Signing a message does NOT trigger a blockchain transaction, does NOT cost any gas, and does NOT give anyone access to your funds.
 {% endhint %}
 
-* Click the "Verify" button on the site, you'll be prompted to log in with your wallet and sign a message. This message will NOT TRIGGER any blockchain transaction or cost a fee.
+{% endtab %}
 
-<figure><img src="../.gitbook/assets/image (13) (2).png" alt=""><figcaption></figcaption></figure>
+{% tab title="Option 2: Send a Transaction" %}
 
-* approve the message and you're verified, make sure the button on the site says verified.
+If you can't connect your wallet directly (e.g., you're using a hardware wallet):
 
+1. Send a small amount of SOL (or BNB) to the address shown on the verification page
+2. Copy the transaction ID/signature
+3. Paste it into the input field
+4. Click **Submit**
 
+Your wallet is verified once the transaction is confirmed.
 
-## Verify and manage added wallets
+{% endtab %}
+{% endtabs %}
 
-You can verify wallets you have added before but are not verified yet.
+## Step 3: Get your roles
 
-* Go to [https://solmatebot.com/account](https://solmatebot.com/account) and log in
-* find the address you want to verify and click the verify button
+Once verified, the bot will automatically check your holdings and assign the appropriate roles. This happens within a few seconds.
 
-## Remove and view wallets
+If the server has roles for:
 
-You can manage your wallets on the website: [https://solmatebot.com/account](https://solmatebot.com/account)
+* **NFT Collections** — you get the role if you hold an NFT from that collection
+* **Tokens** — you get the role if you hold the required amount of a token
+* **Traits** — you get the role if you hold an NFT with a specific trait (e.g., "Background: Gold")
+
+## Managing Your Wallets
+
+You can manage all your connected wallets at [solmatebot.com/account](https://solmatebot.com/account):
+
+* View all connected wallets
+* Verify wallets you haven't verified yet
+* Remove wallets you no longer want connected
+* Add additional wallets (both Solana and EVM)
+
+<figure><img src="../.gitbook/assets/placeholder-member-account-page.png" alt=""><figcaption><p>Your account page with connected wallets</p></figcaption></figure>
+
+## Supported Wallets
+
+Solmate supports 300+ wallets through WalletConnect, including:
+
+* **Phantom**
+* **Solflare**
+* **MetaMask** (for BNB/EVM)
+* **Trust Wallet**
+* **Coinbase Wallet**
+* And many more
+
+## Chain Support
+
+Depending on the server's configuration, you may be able to verify with:
+
+* **Solana** wallets (SOL, SPL tokens, NFTs)
+* **BNB/EVM** wallets (BNB, ERC-20, BEP-20 tokens)
+
+{% hint style="danger" %}
+**Stay safe:** The verification page will only be on `solmatebot.com` or `spruijtstudios.com`. If you're redirected to any other domain, it's a scam. Do NOT connect your wallet and contact Solmate staff immediately.
+{% endhint %}
+
+## Re-verification
+
+Solmate periodically re-checks your holdings. If you sell your NFTs or tokens, the associated roles may be removed automatically. If you acquire new holdings, verify again or wait for the next automatic check.
+
+## FAQ
+
+**Q: Will verifying cost me anything?**\
+A: No. Signing a message is completely free and doesn't interact with the blockchain.
+
+**Q: Can the bot access my funds?**\
+A: No. The verification only proves you own the wallet. Solmate never has access to your private keys or funds.
+
+**Q: I verified but didn't get my role?**\
+A: Make sure you hold the required NFT/token in the wallet you verified. If the issue persists, contact the server's admins or Solmate support.
+
+**Q: Can I verify multiple wallets?**\
+A: Yes. Add and verify multiple wallets at [solmatebot.com/account](https://solmatebot.com/account). Holdings across all verified wallets are combined.
