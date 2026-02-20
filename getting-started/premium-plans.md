@@ -33,7 +33,7 @@ Solmate is free to use with generous limits. Premium plans increase those limits
 6. Click **Upgrade** on the plan you want
 7. Complete the payment through Stripe
 
-<figure><img src="../.gitbook/assets/placeholder-premium-plans-page.png" alt=""><figcaption><p>The Plans tab on the web dashboard</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-premium-plans-page.png" alt=""><figcaption><p>The Plans tab on the web dashboard</p></figcaption></figure>
 
 ## Managing Your Subscription
 

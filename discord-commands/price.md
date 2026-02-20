@@ -22,7 +22,7 @@ Get live price information for Solana or a specific SPL token.
 * Trading volume
 * Price changes over 7d, 14d, 30d, 60d, 200d, and 1 year
 
-<figure><img src="../.gitbook/assets/placeholder-cmd-price.png" alt=""><figcaption><p>/price command showing SOL price data</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-cmd-price.png" alt=""><figcaption><p>/price command showing SOL price data</p></figcaption></figure>
 
 {% hint style="info" %}
 If no token is specified, the command returns the current Solana (SOL) price.

@@ -27,7 +27,7 @@ The **Verification** tab on the dashboard lets you configure holder roles, refre
    * **Need all requirements** — user must meet all role requirements (for multi-requirement roles)
 7. Click **Save**
 
-<figure><img src="../.gitbook/assets/placeholder-dashboard-verification-add.png" alt=""><figcaption><p>Adding a verification role on the dashboard</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-dashboard-verification-add.png" alt=""><figcaption><p>Adding a verification role on the dashboard</p></figcaption></figure>
 
 ### Address format
 
@@ -43,7 +43,7 @@ Each configured role shows:
 * Chain indicator (Solana or BNB)
 * **Edit** and **Delete** buttons
 
-<figure><img src="../.gitbook/assets/placeholder-dashboard-verification-list.png" alt=""><figcaption><p>Verification roles list</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-dashboard-verification-list.png" alt=""><figcaption><p>Verification roles list</p></figcaption></figure>
 
 A progress bar shows how many roles you're using out of your plan's limit.
 

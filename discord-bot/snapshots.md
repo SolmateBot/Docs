@@ -20,9 +20,9 @@ Snapshots let you capture a list of all current holders of an NFT collection or 
 4. Enter the verified creator address
 5. Press Enter and wait a few seconds
 
-<figure><img src="../.gitbook/assets/placeholder-snapshot-creator.png" alt=""><figcaption><p>Where to find the verified creator address</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-snapshot-creator.png" alt=""><figcaption><p>Where to find the verified creator address</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/placeholder-snapshot-result.png" alt=""><figcaption><p>Snapshot result with downloadable file</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-snapshot-result.png" alt=""><figcaption><p>Snapshot result with downloadable file</p></figcaption></figure>
 
 ### Via Web Dashboard
 
@@ -41,7 +41,7 @@ Capture all holders of an SPL token.
 
 Type `/tokensnapshot` and enter the token address.
 
-<figure><img src="../.gitbook/assets/placeholder-tokensnapshot.png" alt=""><figcaption><p>Token snapshot command</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-tokensnapshot.png" alt=""><figcaption><p>Token snapshot command</p></figcaption></figure>
 
 ### Via Web Dashboard
 

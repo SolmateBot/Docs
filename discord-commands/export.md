@@ -20,6 +20,6 @@ No options required.
 
 A downloadable file containing all verified users and their linked wallets.
 
-<figure><img src="../.gitbook/assets/placeholder-cmd-export.png" alt=""><figcaption><p>/export command result with downloadable file</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-cmd-export.png" alt=""><figcaption><p>/export command result with downloadable file</p></figcaption></figure>
 
 You can also export verification data from the web dashboard under the **Verification** tab.

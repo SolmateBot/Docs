@@ -12,7 +12,7 @@ Make Solmate's Discord nickname display the live Solana price. The nickname upda
 
 **Format:** `$XX.XX ▲X.X%` or `$XX.XX ▼X.X%`
 
-<figure><img src="../.gitbook/assets/placeholder-nickname-price.png" alt=""><figcaption><p>Bot nickname showing live SOL price</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-nickname-price.png" alt=""><figcaption><p>Bot nickname showing live SOL price</p></figcaption></figure>
 
 {% hint style="info" %}
 Solmate needs the **Change Nickname** permission for this to work.
@@ -54,6 +54,6 @@ Most settings can be managed from the web dashboard:
 2. Select your server
 3. Click the **Settings** tab
 
-<figure><img src="../.gitbook/assets/placeholder-settings-page.png" alt=""><figcaption><p>The Settings page on the dashboard</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-settings-page.png" alt=""><figcaption><p>The Settings page on the dashboard</p></figcaption></figure>
 
 See [Tracker Settings](../web-dashboard/tracker-settings.md) for detailed tracker-specific settings.

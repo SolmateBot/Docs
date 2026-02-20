@@ -17,7 +17,7 @@ After logging in, you'll see:
 
 Your connected wallets are used for holder verification across all servers that use Solmate.
 
-<figure><img src="../.gitbook/assets/placeholder-account-wallets.png" alt=""><figcaption><p>Account page showing connected wallets</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-account-wallets.png" alt=""><figcaption><p>Account page showing connected wallets</p></figcaption></figure>
 
 ### Adding a wallet
 
@@ -26,7 +26,7 @@ Your connected wallets are used for holder verification across all servers that 
    * **Solana Wallet** — for SOL, SPL tokens, and NFTs
    * **EVM Wallet** — for ETH, BNB, ERC-20, and BEP-20 tokens
 
-<figure><img src="../.gitbook/assets/placeholder-account-add-wallet.png" alt=""><figcaption><p>Choosing wallet type to add</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-account-add-wallet.png" alt=""><figcaption><p>Choosing wallet type to add</p></figcaption></figure>
 
 3. You'll be redirected to the verification page to prove wallet ownership
 
@@ -40,7 +40,7 @@ After adding a wallet, you need to verify it. You have two options:
 2. Sign a message when prompted
 3. This does **NOT** trigger a blockchain transaction and costs nothing
 
-<figure><img src="../.gitbook/assets/placeholder-account-sign-message.png" alt=""><figcaption><p>Signing a verification message</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-account-sign-message.png" alt=""><figcaption><p>Signing a verification message</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Send a Transaction" %}

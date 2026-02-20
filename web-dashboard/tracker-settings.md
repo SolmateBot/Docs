@@ -32,7 +32,7 @@ Add wallet addresses to exclude from notifications. Transactions involving these
 
 Set a threshold so only transactions above a certain USD value trigger notifications. This filters out dust and micro-transactions.
 
-<figure><img src="../.gitbook/assets/placeholder-settings-filters.png" alt=""><figcaption><p>Filtering options for wallet trackers</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-settings-filters.png" alt=""><figcaption><p>Filtering options for wallet trackers</p></figcaption></figure>
 
 ### Display Toggles
 
@@ -52,7 +52,7 @@ Customize which buttons appear on tracker notifications and in what order.
 * **Remove** buttons you don't need
 * Available buttons include explorers (Solscan, SolanaFM), trading bots (Trojan, Bonkbot, BullX), token viewers (Birdeye, DexScreener, Photon, GMGN, Axiom), and utilities (RugCheck, PumpFun, Jupiter)
 
-<figure><img src="../.gitbook/assets/placeholder-settings-buttons.png" alt=""><figcaption><p>Drag and drop to reorder notification buttons</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-settings-buttons.png" alt=""><figcaption><p>Drag and drop to reorder notification buttons</p></figcaption></figure>
 
 ## General Settings
 

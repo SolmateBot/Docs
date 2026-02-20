@@ -19,7 +19,7 @@ No options required.
 3. The bot picks a random NFT you own from one of those collections
 4. It displays the NFT image with a link to view it on Magic Eden
 
-<figure><img src="../.gitbook/assets/placeholder-cmd-flex.png" alt=""><figcaption><p>/flex showing a random NFT from your collection</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-cmd-flex.png" alt=""><figcaption><p>/flex showing a random NFT from your collection</p></figcaption></figure>
 
 {% hint style="info" %}
 This command only works for collections that have verification roles configured in the current server.

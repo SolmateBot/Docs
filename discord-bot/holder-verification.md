@@ -6,7 +6,7 @@ description: Verify your members' wallets and assign roles based on NFT and toke
 
 With holder verification, your community members can connect their Solana (or BNB) wallet and automatically receive Discord roles based on what they hold.
 
-<figure><img src="../.gitbook/assets/placeholder-verification-panel.png" alt=""><figcaption><p>A verification panel in Discord</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-verification-panel.png" alt=""><figcaption><p>A verification panel in Discord</p></figcaption></figure>
 
 ## Creating a Verification Panel
 
@@ -23,9 +23,9 @@ A verification panel is an embed message with a "Verify" button that members cli
    * **image** — large image
 3. Press Enter — your panel is created
 
-<figure><img src="../.gitbook/assets/placeholder-verification-create.png" alt=""><figcaption><p>Creating a verification panel with custom options</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-verification-create.png" alt=""><figcaption><p>Creating a verification panel with custom options</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/placeholder-verification-result.png" alt=""><figcaption><p>The resulting verification panel with a Verify button</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-verification-result.png" alt=""><figcaption><p>The resulting verification panel with a Verify button</p></figcaption></figure>
 
 ## Adding Holder Roles
 
@@ -42,7 +42,7 @@ Once your panel is created, you need to set up **actions** — rules that assign
    * **traitname** and **traitvalue** — require a specific trait (e.g., "Background" = "Gold")
 5. Press Enter
 
-<figure><img src="../.gitbook/assets/placeholder-verification-add-collection.png" alt=""><figcaption><p>Adding a collection-based holder role</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-verification-add-collection.png" alt=""><figcaption><p>Adding a collection-based holder role</p></figcaption></figure>
 
 {% hint style="info" %}
 **Finding the collection symbol:** On Magic Eden, the symbol is in the URL. For example: `https://magiceden.io/marketplace/iconic_ape_club` — the symbol is `iconic_ape_club`.
@@ -58,7 +58,7 @@ Once your panel is created, you need to set up **actions** — rules that assign
 4. Optionally set the **amount** — minimum tokens required
 5. Press Enter
 
-<figure><img src="../.gitbook/assets/placeholder-verification-add-token.png" alt=""><figcaption><p>Adding a token-based holder role</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-verification-add-token.png" alt=""><figcaption><p>Adding a token-based holder role</p></figcaption></figure>
 
 {% endtab %}
 {% endtabs %}

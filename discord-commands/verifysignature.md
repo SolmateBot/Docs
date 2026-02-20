@@ -21,8 +21,8 @@ No options — a popup form will appear.
    * **Public Key** — your wallet address
 3. Fill in the fields and submit
 
-<figure><img src="../.gitbook/assets/placeholder-cmd-verifysignature-popup.png" alt=""><figcaption><p>The verification signature popup</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-cmd-verifysignature-popup.png" alt=""><figcaption><p>The verification signature popup</p></figcaption></figure>
 
 If the signature is valid, you'll see a confirmation message.
 
-<figure><img src="../.gitbook/assets/placeholder-cmd-verifysignature-success.png" alt=""><figcaption><p>Successful signature verification</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-cmd-verifysignature-success.png" alt=""><figcaption><p>Successful signature verification</p></figcaption></figure>

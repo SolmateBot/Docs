@@ -19,7 +19,7 @@ Click the link below to invite Solmate to your server:
 1. Make sure you're logged in to Discord
 2. Select the server you want to add Solmate to from the dropdown
 
-<figure><img src="../.gitbook/assets/placeholder-invite-select-server.png" alt=""><figcaption><p>Select your server from the dropdown</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-invite-select-server.png" alt=""><figcaption><p>Select your server from the dropdown</p></figcaption></figure>
 
 3. Click **"Authorize"**
 

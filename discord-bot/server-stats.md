@@ -6,7 +6,7 @@ description: Display live Solana data in voice channels — prices, floors, volu
 
 Counters are voice channels that automatically update with live data. Use them to display the SOL price, collection floors, token prices, wallet balances, and more.
 
-<figure><img src="../.gitbook/assets/placeholder-stats-example.png" alt=""><figcaption><p>Voice channel counters showing live data</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-stats-example.png" alt=""><figcaption><p>Voice channel counters showing live data</p></figcaption></figure>
 
 ## Creating a Counter
 
@@ -66,7 +66,7 @@ The prefix must come **before** the data symbol (◎, $, or arrows). Text added 
 
 `/stats list` — shows all active counters with their index numbers
 
-<figure><img src="../.gitbook/assets/placeholder-stats-list.png" alt=""><figcaption><p>Counter list showing all active counters</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-stats-list.png" alt=""><figcaption><p>Counter list showing all active counters</p></figcaption></figure>
 
 ### Force update a counter
 

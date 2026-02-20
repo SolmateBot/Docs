@@ -24,7 +24,7 @@ Get the current floor price of an NFT collection, with an image preview of the c
 * NFT details: price, ID, owner, mint address
 * Interactive left/right buttons to browse floor listings
 
-<figure><img src="../.gitbook/assets/placeholder-cmd-floor.png" alt=""><figcaption><p>/floor command with NFT preview and browse buttons</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-cmd-floor.png" alt=""><figcaption><p>/floor command with NFT preview and browse buttons</p></figcaption></figure>
 
 {% hint style="info" %}
 Use the arrow buttons to scroll through floor listings and see the next cheapest NFTs.

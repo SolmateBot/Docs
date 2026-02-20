@@ -26,7 +26,7 @@ description: Unlock more trackers and better performance with Telegram premium.
 3. Complete the payment through Stripe (card payment)
 4. Your premium features activate immediately
 
-<figure><img src="../.gitbook/assets/placeholder-telegram-premium.png" alt=""><figcaption><p>Telegram premium subscription options</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-telegram-premium.png" alt=""><figcaption><p>Telegram premium subscription options</p></figcaption></figure>
 
 ## Managing Your Subscription
 

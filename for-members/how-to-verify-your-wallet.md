@@ -10,7 +10,7 @@ If a Discord server uses Solmate for holder verification, you'll need to connect
 
 Find the verification panel in the Discord server (usually in a dedicated channel) and click the **Verify** button.
 
-<figure><img src="../.gitbook/assets/placeholder-member-verify-panel.png" alt=""><figcaption><p>Click the Verify button on the panel</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-member-verify-panel.png" alt=""><figcaption><p>Click the Verify button on the panel</p></figcaption></figure>
 
 You'll be redirected to the Solmate website to complete verification.
 
@@ -27,7 +27,7 @@ If this is your first time, you'll be on the wallet verification page. You have 
 4. Click **Verify** — you'll be asked to sign a message
 5. Approve the signature in your wallet
 
-<figure><img src="../.gitbook/assets/placeholder-member-sign-message.png" alt=""><figcaption><p>Signing a verification message — this costs nothing</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-member-sign-message.png" alt=""><figcaption><p>Signing a verification message — this costs nothing</p></figcaption></figure>
 
 {% hint style="info" %}
 **This is free and safe.** Signing a message does NOT trigger a blockchain transaction, does NOT cost any gas, and does NOT give anyone access to your funds.
@@ -68,7 +68,7 @@ You can manage all your connected wallets at [solmatebot.com/account](https://so
 * Remove wallets you no longer want connected
 * Add additional wallets (both Solana and EVM)
 
-<figure><img src="../.gitbook/assets/placeholder-member-account-page.png" alt=""><figcaption><p>Your account page with connected wallets</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-member-account-page.png" alt=""><figcaption><p>Your account page with connected wallets</p></figcaption></figure>
 
 ## Supported Wallets
 

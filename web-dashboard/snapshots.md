@@ -22,7 +22,7 @@ The **Snapshots** tab on the dashboard lets you create, view, and download snaps
 6. Select the file format: **JSON**, **TXT**, or **CSV**
 7. Click **Create**
 
-<figure><img src="../.gitbook/assets/placeholder-dashboard-snapshots-create.png" alt=""><figcaption><p>Creating a snapshot on the dashboard</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-dashboard-snapshots-create.png" alt=""><figcaption><p>Creating a snapshot on the dashboard</p></figcaption></figure>
 
 The snapshot will be generated and automatically downloaded.
 
@@ -38,7 +38,7 @@ Each snapshot shows:
 * **Download** button
 * **Delete** button
 
-<figure><img src="../.gitbook/assets/placeholder-dashboard-snapshots-list.png" alt=""><figcaption><p>Snapshot list with download options</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-dashboard-snapshots-list.png" alt=""><figcaption><p>Snapshot list with download options</p></figcaption></figure>
 
 ## Snapshot Limits
 

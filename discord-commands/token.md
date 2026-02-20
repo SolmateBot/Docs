@@ -26,6 +26,6 @@ Get detailed information about an SPL token, including a security analysis.
   * Mint authority status (renounced or not)
   * Freeze authority status (renounced or not)
 
-<figure><img src="../.gitbook/assets/placeholder-cmd-token.png" alt=""><figcaption><p>/token command showing token info with security details</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-cmd-token.png" alt=""><figcaption><p>/token command showing token info with security details</p></figcaption></figure>
 
 The response includes a button to view the token on your configured token viewer (Axiom by default).

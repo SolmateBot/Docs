@@ -21,4 +21,4 @@ No options required.
 * Daily active users
 * Daily fees and rewards
 
-<figure><img src="../.gitbook/assets/placeholder-cmd-solanainfo.png" alt=""><figcaption><p>/solanainfo command result</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-cmd-solanainfo.png" alt=""><figcaption><p>/solanainfo command result</p></figcaption></figure>

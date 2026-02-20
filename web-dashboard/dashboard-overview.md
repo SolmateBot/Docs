@@ -16,7 +16,7 @@ The Solmate web dashboard at [solmatebot.com](https://solmatebot.com) gives you 
 
 After logging in, go to [solmatebot.com/manage](https://solmatebot.com/manage) to see all your servers.
 
-<figure><img src="../.gitbook/assets/placeholder-dashboard-servers.png" alt=""><figcaption><p>Server selection page</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-dashboard-servers.png" alt=""><figcaption><p>Server selection page</p></figcaption></figure>
 
 You'll see two sections:
 
@@ -27,7 +27,7 @@ You'll see two sections:
 
 After selecting a server, you'll see the management dashboard with these tabs:
 
-<figure><img src="../.gitbook/assets/placeholder-dashboard-sidebar.png" alt=""><figcaption><p>Dashboard sidebar with navigation tabs</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-dashboard-sidebar.png" alt=""><figcaption><p>Dashboard sidebar with navigation tabs</p></figcaption></figure>
 
 | Tab              | What you can do                                                          |
 | ---------------- | ------------------------------------------------------------------------ |

@@ -25,7 +25,7 @@ Get detailed information about an NFT collection from Magic Eden.
 * Social media links
 * Categories
 
-<figure><img src="../.gitbook/assets/placeholder-cmd-collection.png" alt=""><figcaption><p>/collection command result</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-cmd-collection.png" alt=""><figcaption><p>/collection command result</p></figcaption></figure>
 
 {% hint style="info" %}
 You can enter the full Magic Eden URL, the collection name, or the symbol (found in the URL). For example: `iconic_ape_club`.

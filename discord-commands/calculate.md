@@ -20,6 +20,6 @@ Calculate the value of one token in another token or USD.
 
 `/calculate 100 SOL USD` — converts 100 SOL to its USD value
 
-<figure><img src="../.gitbook/assets/placeholder-cmd-calculate.png" alt=""><figcaption><p>/calculate command converting between tokens</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-cmd-calculate.png" alt=""><figcaption><p>/calculate command converting between tokens</p></figcaption></figure>
 
 The response includes a "Buy on Jup.ag" button for quick access to swap on Jupiter.

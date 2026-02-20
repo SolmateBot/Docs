@@ -12,7 +12,7 @@ The Solmate Telegram bot brings real-time Solana wallet tracking directly to you
 2. Tap **Start** or type `/start`
 3. The bot will show a welcome message with the current SOL price and your tracker status
 
-<figure><img src="../.gitbook/assets/placeholder-telegram-start.png" alt=""><figcaption><p>The Telegram bot start menu</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-telegram-start.png" alt=""><figcaption><p>The Telegram bot start menu</p></figcaption></figure>
 
 ## Main Menu
 

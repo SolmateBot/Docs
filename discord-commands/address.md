@@ -23,7 +23,7 @@ Get detailed information about a Solana wallet address.
 * .sol domains owned by the wallet
 * Nametag (if one is set for this server)
 
-<figure><img src="../.gitbook/assets/placeholder-cmd-address.png" alt=""><figcaption><p>/address command result</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-cmd-address.png" alt=""><figcaption><p>/address command result</p></figcaption></figure>
 
 {% hint style="info" %}
 You can give wallets a custom name using nametags. This will display the name instead of the address. Learn more in [Nametags & Labels](../discord-bot/nametags-and-labels.md).

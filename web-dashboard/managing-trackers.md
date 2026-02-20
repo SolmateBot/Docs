@@ -41,7 +41,7 @@ Click the **Paste** button to paste addresses from your clipboard.
 
 Drag and drop a `.txt` file into the popup, or click to browse. The file should contain wallet addresses in the same format (one per line).
 
-<figure><img src="../.gitbook/assets/placeholder-trackers-add-popup.png" alt=""><figcaption><p>Adding multiple trackers at once</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-trackers-add-popup.png" alt=""><figcaption><p>Adding multiple trackers at once</p></figcaption></figure>
 
 ### Preview and submit
 
@@ -64,7 +64,7 @@ All configured trackers are shown as cards with:
 * Pause/resume button
 * Delete button
 
-<figure><img src="../.gitbook/assets/placeholder-trackers-list.png" alt=""><figcaption><p>Tracker list on the dashboard</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-trackers-list.png" alt=""><figcaption><p>Tracker list on the dashboard</p></figcaption></figure>
 
 ### Usage indicator
 
@@ -80,7 +80,7 @@ Select multiple trackers using the checkboxes, then use the bulk action buttons:
 
 Use the **Select all** checkbox to quickly select everything.
 
-<figure><img src="../.gitbook/assets/placeholder-trackers-bulk.png" alt=""><figcaption><p>Bulk operations with multiple trackers selected</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-trackers-bulk.png" alt=""><figcaption><p>Bulk operations with multiple trackers selected</p></figcaption></figure>
 
 ## Name Tags Sub-tab
 

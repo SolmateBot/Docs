@@ -6,7 +6,7 @@ description: Customize your Telegram bot experience — explorers, buttons, and 
 
 Tap **Settings** from the main menu to configure your Telegram bot preferences.
 
-<figure><img src="../.gitbook/assets/placeholder-telegram-settings.png" alt=""><figcaption><p>The Telegram settings menu</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-telegram-settings.png" alt=""><figcaption><p>The Telegram settings menu</p></figcaption></figure>
 
 ## Explorer Selection
 
@@ -43,7 +43,7 @@ You can configure up to **5 custom buttons** that appear on each transaction not
 ### Token Viewers
 * Birdeye (Tokens or Wallet), DexScreener, Photon, GMGN (Tokens or Wallet), Jupiter, RugCheck, PumpFun
 
-<figure><img src="../.gitbook/assets/placeholder-telegram-custom-buttons.png" alt=""><figcaption><p>Configuring custom notification buttons</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-telegram-custom-buttons.png" alt=""><figcaption><p>Configuring custom notification buttons</p></figcaption></figure>
 
 ## Notification Filters
 

@@ -15,7 +15,7 @@ description: Track Solana wallets on Telegram and get instant transaction notifi
    ```
 4. The bot validates each address and confirms the addition
 
-<figure><img src="../.gitbook/assets/placeholder-telegram-add-tracker.png" alt=""><figcaption><p>Adding a wallet tracker on Telegram</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-telegram-add-tracker.png" alt=""><figcaption><p>Adding a wallet tracker on Telegram</p></figcaption></figure>
 
 {% hint style="info" %}
 **Free users:** Wallets must have a minimum balance of 0.001 SOL and must be your own wallet. Premium users can track any wallet, even empty ones.
@@ -45,7 +45,7 @@ Each notification includes:
 * Market cap information
 * Quick-action buttons (customizable in Settings)
 
-<figure><img src="../.gitbook/assets/placeholder-telegram-swap-notification.png" alt=""><figcaption><p>A swap notification on Telegram</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-telegram-swap-notification.png" alt=""><figcaption><p>A swap notification on Telegram</p></figcaption></figure>
 
 ## Managing Trackers
 
@@ -57,7 +57,7 @@ Tap **Trackers** from the main menu to see all tracked wallets with pagination (
 * Wallet address with nametag
 * Tracked event types
 
-<figure><img src="../.gitbook/assets/placeholder-telegram-tracker-list.png" alt=""><figcaption><p>Tracker list with pagination</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-telegram-tracker-list.png" alt=""><figcaption><p>Tracker list with pagination</p></figcaption></figure>
 
 ### Remove a tracker
 
@@ -86,7 +86,7 @@ Give your tracked wallets human-readable names:
 
 Nametags appear in all notifications instead of the raw address.
 
-<figure><img src="../.gitbook/assets/placeholder-telegram-nametags.png" alt=""><figcaption><p>Managing nametags on Telegram</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-telegram-nametags.png" alt=""><figcaption><p>Managing nametags on Telegram</p></figcaption></figure>
 
 ## Token Lookup
 
@@ -96,7 +96,7 @@ Use `/token <name or address>` to look up any token. Shows:
 * Market cap, decimals, and supply
 * Security info (top holder concentration, liquidity, mint/freeze authority)
 
-<figure><img src="../.gitbook/assets/placeholder-telegram-token.png" alt=""><figcaption><p>/token command showing security analysis</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-telegram-token.png" alt=""><figcaption><p>/token command showing security analysis</p></figcaption></figure>
 
 ## Tracker Limits
 

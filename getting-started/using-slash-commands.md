@@ -14,19 +14,19 @@ Solmate uses Discord's built-in **slash commands**. This means you type `/` foll
 
 Start by typing a forward slash (`/`) in any text channel. A menu will appear showing all available commands from bots in the server.
 
-<figure><img src="../.gitbook/assets/placeholder-slash-menu.png" alt=""><figcaption><p>The slash command menu appears when you type /</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-slash-menu.png" alt=""><figcaption><p>The slash command menu appears when you type /</p></figcaption></figure>
 
 ### Step 2: Find the command
 
 You can scroll through the list or start typing the command name to filter results. Look for commands with the Solmate icon.
 
-<figure><img src="../.gitbook/assets/placeholder-slash-typing.png" alt=""><figcaption><p>Type the command name to filter</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-slash-typing.png" alt=""><figcaption><p>Type the command name to filter</p></figcaption></figure>
 
 ### Step 3: Fill in the options
 
 Some commands have **required** and **optional** arguments. Required arguments are marked and must be filled in before you can run the command. Optional arguments can be left blank.
 
-<figure><img src="../.gitbook/assets/placeholder-slash-options.png" alt=""><figcaption><p>Fill in the command options</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-slash-options.png" alt=""><figcaption><p>Fill in the command options</p></figcaption></figure>
 
 ### Step 4: Press Enter
 

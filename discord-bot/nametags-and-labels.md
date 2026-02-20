@@ -21,7 +21,7 @@ A nametag is a custom name you assign to a wallet address. Instead of seeing a l
 3. Switch to the **Name Tags** sub-tab
 4. Click **Add** and enter the wallet address and name
 
-<figure><img src="../.gitbook/assets/placeholder-nametags-dashboard.png" alt=""><figcaption><p>Managing nametags on the dashboard</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-nametags-dashboard.png" alt=""><figcaption><p>Managing nametags on the dashboard</p></figcaption></figure>
 
 ### Editing and removing nametags
 
@@ -49,7 +49,7 @@ Labels are tags you can attach to tracked wallets for grouping and organization.
 3. Switch to the **Labels** sub-tab
 4. Create a new label and assign wallet addresses to it
 
-<figure><img src="../.gitbook/assets/placeholder-labels-dashboard.png" alt=""><figcaption><p>Managing labels on the dashboard</p></figcaption></figure>
+<figure><img src="https://solmatebot.com/docs/placeholder-labels-dashboard.png" alt=""><figcaption><p>Managing labels on the dashboard</p></figcaption></figure>
 
 ### Managing labels
 
