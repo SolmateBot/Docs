@@ -1,5 +1,6 @@
 ---
 description: Get general Solana blockchain statistics.
+hidden: true
 ---
 
 # /solanainfo
