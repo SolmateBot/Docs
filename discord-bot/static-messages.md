@@ -1,5 +1,6 @@
 ---
 description: Create auto-updating embed messages with custom data.
+hidden: true
 ---
 
 # Static Messages
@@ -34,10 +35,3 @@ Static messages are custom embed messages posted by Solmate that can display dyn
 3. Press Enter
 
 ## Static Variable Limits
-
-| Plan      | Static Variables |
-| --------- | ---------------- |
-| Free      | 1                |
-| Plus      | 10               |
-| Pro       | 10               |
-| Community | 10               |
