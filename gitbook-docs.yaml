@@ -8,4 +8,4 @@ site:
       path: solmate-documentation
       default: true
       content:
-        directory: ./solmate-documentation
+        directory: ./
