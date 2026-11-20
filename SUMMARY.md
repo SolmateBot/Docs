@@ -56,3 +56,4 @@
 * [How to Verify Your Wallet](for-members/how-to-verify-your-wallet.md)
 * [Privacy and Safety](for-members/privacy-and-safety-measures.md)
 * [Privacy Policy](for-members/privacy-policy.md)
+* [Terms of Service (ToS)](for-members/terms-of-service-tos.md)
